@@ -1,0 +1,12 @@
+.ipynb_checkpoints
+/venv
+__init__.py
+stdout.txt
+submission.json
+submission1.json
+submit.json
+../data-science-0/.pytest_cache
+main.py
+output.xml
+test_main.py
+requirements.txt
